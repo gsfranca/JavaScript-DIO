@@ -11,12 +11,13 @@ Curso  | Repositorio do Curso
 [Conhecendo Funções JavaScript](https://web.dio.me/course/conhecendo-funcoes-javascript/learning/85b3ec82-438b-4a29-974a-c4af7e12d9d0?back=/track/coding-future-banco-pan-desenvolvimento-frontend-com-angular&tab=undefined&moduleId=undefined) | [Acesse aqui](https://github.com/digitalinnovationone/javascript-developer-m1)
 
 ## Meus codigos 
-* [Primeiros passos com JavaScript]()
-* [Conhecendo Funções JavaScript]()
+* [Primeiros passos com JavaScript](/Cursos/Primeiros-Passos-Com-JavaScript)
+* [Conhecendo Funções JavaScript](/Cursos/Conhecendo-Funcoes-JavaScript)
 
 ## Certificados
 Imagem | Link
 :---------: | :------:
-![Certificado: Primeiros passos com JavaScript]() | [Primeiros passos com JavaScript](https://www.dio.me/certificate/C6626398/share)
-![Certificado: Conhecendo Funções JavaScript]() | [Conhecendo Funções JavaScript](https://www.dio.me/certificate/6184903B/share)
+<img src="Certificados/primeiros-passos-com-javascript.png" width="500" /> | [Primeiros passos com JavaScript](https://www.dio.me/certificate/C6626398/share)
+<img src="Certificados/conhecendo-funcoes-javascript.png" width="500" /> | [Conhecendo Funções JavaScript](https://www.dio.me/certificate/6184903B/share)
+
 
